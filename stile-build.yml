@@ -1,0 +1,4 @@
+{
+    canonical_key: 'nexus-repository-apt',
+    image_name: 'nexus-repository-apt',
+}
